@@ -1,0 +1,9 @@
+data/raw/
+data/processed/
+src/model/artifacts/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.pytest_cache/
+venv/
